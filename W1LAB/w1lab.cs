@@ -37,11 +37,13 @@ namespace w1_lab{
             */
             dblHours = Convert.ToDouble (strHours);
             dblRate = Convert.ToDouble (strRate);
+            
 
             /*
             The code below is used to calculate the gross pay, and the net pay based on the user's input and store the result in the variable dblGross, and dblNet.
             */
             dblGross = dblHours * dblRate;
+            
             if (dblGross >= 1000){
                 dblTax = dblGross * 0.50;
             }else if (dblGross >= 500 && dblGross < 1000){
@@ -52,7 +54,7 @@ namespace w1_lab{
                 dblTax = 0;
             }
             dblNet = dblGross - dblTax;
-
+    
             /*
             The code below is used to display the result of the gross pay, and the net pay based on the user's input.
             */
