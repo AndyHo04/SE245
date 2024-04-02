@@ -21,7 +21,7 @@ namespace Week1_Samplel {
             Console.WriteLine ("Hello " + strFirst + "! Let's do some math!");
             Console.Write ("Please enter the first number: ");
             strNum1 = Console.ReadLine ();
-            Console.Write ("Please enter the math operation (PLUS, MINUS, MULTIPLY,DIVIDE): ");
+            Console.Write ("Please enter the math operation (PLUS, MINUS, MULTIPLY,DIVIDE,EXPONENT): ");
             strOperand = Console.ReadLine ().ToUpper();
             Console.Write ("Please enter the second number: ");
             strNum2 = Console.ReadLine ();
@@ -45,6 +45,9 @@ namespace Week1_Samplel {
                 case "DIVIDE":
                     intResult = intNum1 / intNum2;
                     break;
+                case "EXPONENT":
+                    intResult = Math.Pow(intNum1, intNum2);
+                    break;
             }
            
             dblResult = (Double) intResult;
@@ -62,10 +65,12 @@ namespace Week1_Samplel {
                 Console.WriteLine ($"\n\nThe product of " + intNum1 + " and " + intNum2 + " equals: " + dblResult);
             }else if (strOperand == "DIVIDE"){
                 Console.WriteLine ($"\n\nThe quotient of" + intNum1 +  " and"  +intNum2+ " equals: " + dblResult);
+            }else if (strOperand == "EXPONENT"){
+                Console.WriteLine ($"\n\nThe result of " + intNum1 + " raised to the power of " + intNum2 + " equals: " + dblResult);
             }
             Console.WriteLine ("\n\nPress Any Key to Continue");
             Console.ReadKey ();
-            }
         }
+    }
 }
 
