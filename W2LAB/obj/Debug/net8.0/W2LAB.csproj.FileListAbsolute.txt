@@ -1,0 +1,15 @@
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\bin\Debug\net8.0\W2LAB.exe
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\bin\Debug\net8.0\W2LAB.deps.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\bin\Debug\net8.0\W2LAB.runtimeconfig.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\bin\Debug\net8.0\W2LAB.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\bin\Debug\net8.0\W2LAB.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.sourcelink.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\refint\W2LAB.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\W2LAB.genruntimeconfig.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W2LAB\obj\Debug\net8.0\ref\W2LAB.dll

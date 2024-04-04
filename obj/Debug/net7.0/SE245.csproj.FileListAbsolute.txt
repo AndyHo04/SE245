@@ -3,3 +3,8 @@ C:\Users\008021468\Desktop\SE245\obj\Debug\net7.0\SE245.GeneratedMSBuildEditorCo
 C:\Users\008021468\Desktop\SE245\obj\Debug\net7.0\SE245.AssemblyInfoInputs.cache
 C:\Users\008021468\Desktop\SE245\obj\Debug\net7.0\SE245.AssemblyInfo.cs
 C:\Users\008021468\Desktop\SE245\obj\Debug\net7.0\SE245.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\obj\Debug\net7.0\SE245.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\obj\Debug\net7.0\SE245.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\obj\Debug\net7.0\SE245.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\obj\Debug\net7.0\SE245.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\obj\Debug\net7.0\SE245.sourcelink.json

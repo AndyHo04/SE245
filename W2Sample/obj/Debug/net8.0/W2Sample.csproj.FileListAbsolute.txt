@@ -1,0 +1,15 @@
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\bin\Debug\net8.0\W2Sample.exe
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\bin\Debug\net8.0\W2Sample.deps.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\bin\Debug\net8.0\W2Sample.runtimeconfig.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\bin\Debug\net8.0\W2Sample.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\bin\Debug\net8.0\W2Sample.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.sourcelink.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\refint\W2Sample.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\W2Sample.genruntimeconfig.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W2Sample\obj\Debug\net8.0\ref\W2Sample.dll
