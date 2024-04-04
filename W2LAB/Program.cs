@@ -26,7 +26,7 @@ namespace W2LAB
         {
             //Declare Variables
             String strName, str1, str2, str3, str4, str5, strLetter, strCount;
-            Double dblGrade1, dblGrade2, dblGrade3, dblGrade4, dblGrade5, stuAverage, allStuAvg, dblTotal = 0;
+            Double dblGrade1, dblGrade2, dblGrade3, dblGrade4, dblGrade5, stuAverage, dblTotal = 0;
             Int32  intCounter = 0; 
             bool success = false; 
             bool lab1 = false; 
