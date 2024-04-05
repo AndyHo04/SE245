@@ -45,6 +45,7 @@ namespace W2LAB2{
             List<double> HoursWorked = new List<double>();
             List<double> HourlyRate = new List<double>();
             List<double> Net = new List<double>();
+            //List<double> Gross = new List<double>();
 
             for(int IntCounter = 0; IntCounter < IntCount; IntCounter++){
                 Console.WriteLine("\tPlease enter the employees name:");
@@ -74,10 +75,21 @@ namespace W2LAB2{
             foreach(string name in Names){
                 int index = Names.IndexOf(name);
                 GrossPay = Math.Round(HoursWorked[index] * HourlyRate[index], 2);
+                /*Gross.Add(GrossPay);
+                if (Gross[index] >= 1000){
+                    Tax = Math.Round(Gross[index] * 0.50, 2);
+                }else if (Gross[index]>= 500 && Gross[index] < 1000){
+                    Tax = Math.Round(Gross[index] * 0.30, 2);
+                }else if (Gross[index] >= 300 && Gross[index] < 500){
+                    Tax = Math.Round(Gross[index]* 0.10, 2);
+                 }else if (Gross[index] < 300){
+                    Tax = 0;
+                 } 
+                */
                 if (GrossPay >= 1000){
                     Tax = Math.Round(GrossPay * 0.50, 2);
-                }else if (GrossPay >= 500 && GrossPay < 1000){
-                    Tax = Math.Round(GrossPay* 0.30, 2);
+                }else if (GrossPay>= 500 && GrossPay < 1000){
+                    Tax = Math.Round(GrossPay * 0.30, 2);
                 }else if (GrossPay >= 300 && GrossPay < 500){
                     Tax = Math.Round(GrossPay * 0.10, 2);
                  }else if (GrossPay < 300){
@@ -88,7 +100,7 @@ namespace W2LAB2{
 
                 Console.WriteLine($"\n\tName: " + name + "\n\tHours Worked: " + HoursWorked[index] + "\n\tHourly Rate:$ " + HourlyRate[index] + "\n\tGross Pay:$ " + GrossPay + "\n\tTax:$ " + Tax + "\n\tNet:$ " + Net[index]);
             }
-            dblAverage = Math.Round(Net.Sum()/Names.Count);
+            dblAverage = Math.Round(Net.Sum()/Names.Count, 2);
             Console.WriteLine($"\n\tThe Average Pay for all employees is$ " + dblAverage);
             Console.WriteLine("\tPress any Key to end program");
             Console.ReadKey();
