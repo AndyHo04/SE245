@@ -1,0 +1,15 @@
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\bin\Debug\net8.0\W3Demo.exe
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\bin\Debug\net8.0\W3Demo.deps.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\bin\Debug\net8.0\W3Demo.runtimeconfig.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\bin\Debug\net8.0\W3Demo.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\bin\Debug\net8.0\W3Demo.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.sourcelink.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\refint\W3Demo.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\W3Demo.genruntimeconfig.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W3Demo\obj\Debug\net8.0\ref\W3Demo.dll
