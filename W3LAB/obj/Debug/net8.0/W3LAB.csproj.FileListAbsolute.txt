@@ -1,0 +1,15 @@
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\bin\Debug\net8.0\W3LAB.exe
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\bin\Debug\net8.0\W3LAB.deps.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\bin\Debug\net8.0\W3LAB.runtimeconfig.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\bin\Debug\net8.0\W3LAB.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\bin\Debug\net8.0\W3LAB.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.sourcelink.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\refint\W3LAB.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\W3LAB.genruntimeconfig.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W3LAB\obj\Debug\net8.0\ref\W3LAB.dll
