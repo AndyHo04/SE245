@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2Lab\\W2LAB.csproj": {}
+    "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2LAB\\W2LAB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2Lab\\W2LAB.csproj": {
+    "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2LAB\\W2LAB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2Lab\\W2LAB.csproj",
+        "projectUniqueName": "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2LAB\\W2LAB.csproj",
         "projectName": "W2LAB",
-        "projectPath": "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2Lab\\W2LAB.csproj",
+        "projectPath": "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2LAB\\W2LAB.csproj",
         "packagesPath": "C:\\Users\\andyh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2Lab\\obj\\",
+        "outputPath": "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\W2LAB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andyh\\AppData\\Roaming\\NuGet\\NuGet.Config"

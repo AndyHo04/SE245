@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W2LAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6957fb1291643769f0db070a2f8e556b155a008")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d87755c51c11aab6fbf77962e29f3e3368cc5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("W2LAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W2LAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

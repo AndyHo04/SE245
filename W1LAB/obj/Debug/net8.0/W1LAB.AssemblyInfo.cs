@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W1LAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+012f704c43d4d47ad1a513ef4e98284065be78f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d87755c51c11aab6fbf77962e29f3e3368cc5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("W1LAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W1LAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

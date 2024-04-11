@@ -123,7 +123,6 @@ namespace W2LAB
             foreach(string student in students){
                 int index = students.IndexOf(student);
                 stuAverage = (lab1grades[index] + lab2grades[index] + lab3grades[index] + lab4grades[index] + lab5grades[index]) / 5;
-                dblTotal += stuAverage;
                 if (stuAverage >= 90){
                     strLetter = "A";
                 }else if (stuAverage >= 80 && stuAverage < 90){

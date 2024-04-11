@@ -25,7 +25,7 @@ namespace Week2_Sample1 {
             }while(!success);
             
            
-            Double[] dblEarnings = new Double[intCntr];// making a list of the earnings
+            Double[] dblEarnings = new Double[intCntr];// making a array of the earnings
 
             Console.WriteLine ("Averager Program: Enter weekly earnings.\n\n");
 
