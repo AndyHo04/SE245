@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("W3LAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbc20dfcf9714fd2f6e1bd683eea08df8eb53b86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c20e6f5a029a29fe44398ef2714896b40451a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("W3LAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("W3LAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
