@@ -1,0 +1,15 @@
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\bin\Debug\net8.0\W4Demo.exe
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\bin\Debug\net8.0\W4Demo.deps.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\bin\Debug\net8.0\W4Demo.runtimeconfig.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\bin\Debug\net8.0\W4Demo.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\bin\Debug\net8.0\W4Demo.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.sourcelink.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\refint\W4Demo.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\W4Demo.genruntimeconfig.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Demo\obj\Debug\net8.0\ref\W4Demo.dll
