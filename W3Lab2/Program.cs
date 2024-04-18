@@ -16,7 +16,7 @@ using System.Threading.Tasks;
 using Microsoft.Win32.SafeHandles;
 
 namespace W3Lab2{
-    class program{
+    class Program{
 
         static void Pause(){
             Console.WriteLine("\tPress any Key to end program");

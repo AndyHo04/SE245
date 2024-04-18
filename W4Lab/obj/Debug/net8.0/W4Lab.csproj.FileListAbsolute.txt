@@ -1,0 +1,15 @@
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\bin\Debug\net8.0\W4Lab.exe
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\bin\Debug\net8.0\W4Lab.deps.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\bin\Debug\net8.0\W4Lab.runtimeconfig.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\bin\Debug\net8.0\W4Lab.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\bin\Debug\net8.0\W4Lab.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.sourcelink.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\refint\W4Lab.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\W4Lab.genruntimeconfig.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W4Lab\obj\Debug\net8.0\ref\W4Lab.dll
