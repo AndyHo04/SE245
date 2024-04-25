@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1VJMMPnhZTwRAsfz2I9V3ZZ/bSCk0KBvKhkjX6uIfJZa+1oHohUvi1KvsCkhDL6whuedgcTA1YSzpMwui0XzYw==",
+  "dgSpecHash": "KjoUf/U9b27oTmsDIQ6/iqzvXcSbBulC4gURnuZ7j3/EVpoeB17mb2qSvLCCnYYcfbG8W2IwmTIcsQZvdfYc8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\andyh\\OneDrive\\Desktop\\SE245\\SE245.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\andyh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }

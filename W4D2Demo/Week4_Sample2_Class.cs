@@ -202,9 +202,9 @@ namespace Week4_Class1 {
             Console.Write($"\n Email: {temp.Email}");
             Console.Write($"\n Published: {temp.DatePublished.ToShortDateString()}");
             Console.Write($"\n Pages: {temp.Pages}");
-            Console Write ($"\n Price: ${temp.Price}");
+            Console.Write($"\n Price: ${temp.Price}");
 
-            Console.ReadLine (); // Added to prevent console from closing immediately
+            Console.ReadLine(); // Added to prevent console from closing immediately
         }
     }
 }
