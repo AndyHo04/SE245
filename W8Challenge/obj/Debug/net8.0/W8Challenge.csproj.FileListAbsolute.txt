@@ -1,0 +1,15 @@
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\bin\Debug\net8.0\W8Challenge.exe
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\bin\Debug\net8.0\W8Challenge.deps.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\bin\Debug\net8.0\W8Challenge.runtimeconfig.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\bin\Debug\net8.0\W8Challenge.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\bin\Debug\net8.0\W8Challenge.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.AssemblyInfoInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.AssemblyInfo.cs
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.csproj.CoreCompileInputs.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.sourcelink.json
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\refint\W8Challenge.dll
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.pdb
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\W8Challenge.genruntimeconfig.cache
+C:\Users\andyh\OneDrive\Desktop\SE245\W8Challenge\obj\Debug\net8.0\ref\W8Challenge.dll
